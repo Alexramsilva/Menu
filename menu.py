@@ -27,7 +27,7 @@ st.title("Menú de enlaces")
 links = {
     "Buen humor": "https://colab.research.google.com/drive/1DYDu9I4B6_OLlBdUkAmzoilBp-sKl7O0?usp=sharing",
     "Bitcoin": "https://colab.research.google.com/drive/1S47s0rJq4uW4aFFeyevDd4GcI8r5qrDe?usp=sharing",
-    "Music": "https://5gaehenr8pbzfyadepdafg.streamlit.app/"
+    "Music": "https://5gaehenr8pbzfyadepdafg.streamlit.app/",
     "Rendimientos": "https://colab.research.google.com/drive/1_CikKZh6PHS14xKAY0W3ymlLTduAe8fZ?usp=sharing",
 }
 
