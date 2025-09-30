@@ -29,6 +29,11 @@ links = {
     "Bitcoin": "https://colab.research.google.com/drive/1S47s0rJq4uW4aFFeyevDd4GcI8r5qrDe?usp=sharing",
     "Music": "https://5gaehenr8pbzfyadepdafg.streamlit.app/",
     "Rendimientos": "https://colab.research.google.com/drive/1_CikKZh6PHS14xKAY0W3ymlLTduAe8fZ?usp=sharing",
+    "Repositorio": "https://videos-class-ntxornvewsnmrkyvsuc7yu.streamlit.app/",
+    "Alcohol": "https://alcohol-fqlvjbuf6rrr62dyeyqmjc.streamlit.app/",
+    "Bayes": "https://colab.research.google.com/drive/1lOc_KbMZ3S3y1aA99zNPDe5qshNcjb9e?usp=sharing",
+    "FED": "https://gmovmmbwsmkffrhsnurj8m.streamlit.app/",
+
 }
 
 # Menú desplegable
