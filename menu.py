@@ -35,6 +35,7 @@ links = {
     "FED": "https://gmovmmbwsmkffrhsnurj8m.streamlit.app/",
     "Seguimiento Portafolio": "https://colab.research.google.com/drive/1PawFqbF9YJN5x3h1DZPGqXzDHcfwGIH6?usp=sharing",
     "Índice de Vivienda SHF": "https://b9cairxvwefxjbw9mnyepb.streamlit.app/",
+    "Probabilidad: "https://probabilidad-lc5nb3p6xetbsvadzjyk4y.streamlit.app/",	
 
 
 }
