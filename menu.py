@@ -29,6 +29,7 @@ links = {
     "Resorte": "https://colab.research.google.com/drive/1_o-yUIe1TpOs53zwa0yaY8njrc8345lW?usp=sharing",
     "Repositorio": "https://videos-class-ntxornvewsnmrkyvsuc7yu.streamlit.app/",
     "Probabilidad": "https://probabilidad-lc5nb3p6xetbsvadzjyk4y.streamlit.app/",
+    "Rendimientos mensuales": "https://preciocierre-gwhq3lwwrabizqwtpynbje.streamlit.app/",
     "Rendimientos": "https://colab.research.google.com/drive/1_CikKZh6PHS14xKAY0W3ymlLTduAe8fZ?usp=sharing",
     "Bitcoin": "https://colab.research.google.com/drive/1S47s0rJq4uW4aFFeyevDd4GcI8r5qrDe?usp=sharing",
     "Music": "https://5gaehenr8pbzfyadepdafg.streamlit.app/",
