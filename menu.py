@@ -32,6 +32,8 @@ links = {
     "Rendimientos mensuales": "https://preciocierre-gwhq3lwwrabizqwtpynbje.streamlit.app/",
     "Galletita financiera": "https://galleta-bfmexnl9e76gglkaanadm3.streamlit.app/",
     "SPP": "https://colab.research.google.com/drive/1Hs_f7QPnywU6Q2XGyxyNfUGx4QkHGmSJ?usp=sharing",
+    "CAPEX": "https://colab.research.google.com/drive/1MxxbXHsQyF0FGYaG39HcvFrAfJNQCGqf?usp=sharing",
+    "Calendario": "https://es.tradingeconomics.com/country-list/unemployment-rate",
     "Rendimientos": "https://colab.research.google.com/drive/1_CikKZh6PHS14xKAY0W3ymlLTduAe8fZ?usp=sharing",
     "Bitcoin": "https://colab.research.google.com/drive/1S47s0rJq4uW4aFFeyevDd4GcI8r5qrDe?usp=sharing",
     "Music": "https://5gaehenr8pbzfyadepdafg.streamlit.app/",
