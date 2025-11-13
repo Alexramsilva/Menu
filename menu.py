@@ -31,6 +31,7 @@ links = {
     "Probabilidad": "https://probabilidad-lc5nb3p6xetbsvadzjyk4y.streamlit.app/",
     "Rendimientos mensuales": "https://preciocierre-gwhq3lwwrabizqwtpynbje.streamlit.app/",
     "Galletita financiera": "https://galleta-bfmexnl9e76gglkaanadm3.streamlit.app/",
+    "Hooke": "https://alterno-vtw6bhga4gudyeqba5suui.streamlit.app/",
     "SPP": "https://colab.research.google.com/drive/1Hs_f7QPnywU6Q2XGyxyNfUGx4QkHGmSJ?usp=sharing",
     "CAPEX": "https://colab.research.google.com/drive/1MxxbXHsQyF0FGYaG39HcvFrAfJNQCGqf?usp=sharing",
     "Calendario": "https://es.tradingeconomics.com/country-list/unemployment-rate",
