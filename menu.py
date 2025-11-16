@@ -25,7 +25,7 @@ st.title("Menú de enlaces")
 
 # Diccionario con opciones y links
 links = {
-    "Buen humor": "https://colab.research.google.com/drive/1DYDu9I4B6_OLlBdUkAmzoilBp-sKl7O0?usp=sharing",
+    "Bayes_Map": "https://bayesmap-kgxsvqhpmtdfukvp6qhfez.streamlit.app/",
     "Repositorio": "https://videos-class-ntxornvewsnmrkyvsuc7yu.streamlit.app/",
     "Probabilidad": "https://probabilidad-lc5nb3p6xetbsvadzjyk4y.streamlit.app/",
     "Rendimientos mensuales": "https://preciocierre-gwhq3lwwrabizqwtpynbje.streamlit.app/",
@@ -33,6 +33,7 @@ links = {
     "Hooke": "https://alterno-vtw6bhga4gudyeqba5suui.streamlit.app/",
     "Volatilidades": "https://colab.research.google.com/drive/1QzYhaLwjNyKB_8Vw13UvexFGZ1EbK8rl?usp=sharing",
     "CAPEX": "https://colab.research.google.com/drive/1MxxbXHsQyF0FGYaG39HcvFrAfJNQCGqf?usp=sharing",
+    "Buen humor": "https://colab.research.google.com/drive/1DYDu9I4B6_OLlBdUkAmzoilBp-sKl7O0?usp=sharing",
     "Resorte": "https://colab.research.google.com/drive/1_o-yUIe1TpOs53zwa0yaY8njrc8345lW?usp=sharing",
     "Calendario": "https://es.tradingeconomics.com/country-list/unemployment-rate",
     "Rendimientos": "https://colab.research.google.com/drive/1_CikKZh6PHS14xKAY0W3ymlLTduAe8fZ?usp=sharing",
