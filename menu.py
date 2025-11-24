@@ -31,6 +31,7 @@ links = {
     "Rendimientos mensuales": "https://preciocierre-gwhq3lwwrabizqwtpynbje.streamlit.app/",
     "Galletita financiera": "https://galleta-bfmexnl9e76gglkaanadm3.streamlit.app/",
     "Hooke": "https://alterno-vtw6bhga4gudyeqba5suui.streamlit.app/",
+    "BMV": "https://appbmv-f9igvhnh5sc7wjax66ukjs.streamlit.app/",
     "Volatilidades": "https://colab.research.google.com/drive/1QzYhaLwjNyKB_8Vw13UvexFGZ1EbK8rl?usp=sharing",
     "Tipo de Cambio": "https://exchange-r68mzkn9bmgvfhket3fznp.streamlit.app/",
     "CAPEX": "https://colab.research.google.com/drive/1MxxbXHsQyF0FGYaG39HcvFrAfJNQCGqf?usp=sharing",
