@@ -42,6 +42,7 @@ links = {
     "Rendimientos": "https://colab.research.google.com/drive/1_CikKZh6PHS14xKAY0W3ymlLTduAe8fZ?usp=sharing",
     "CETES": "https://www.cetesdirecto.com/sites/portal/inicio",
     "Calendario Lunar": "https://www.calendario-365.mx/luna/calendario-lunar.html",
+    "Gate": "https://gate-streamlit-443909246942.us-central1.run.app",
     "SPP": "https://colab.research.google.com/drive/1Hs_f7QPnywU6Q2XGyxyNfUGx4QkHGmSJ?usp=sharing",
     "Music": "https://5gaehenr8pbzfyadepdafg.streamlit.app/",
     "Alcohol": "https://alcohol-fqlvjbuf6rrr62dyeyqmjc.streamlit.app/",
