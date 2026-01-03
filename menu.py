@@ -33,6 +33,7 @@ links = {
     "Hooke": "https://alterno-vtw6bhga4gudyeqba5suui.streamlit.app/",
     "BMV": "https://appbmv-f9igvhnh5sc7wjax66ukjs.streamlit.app/",
     "Shopping": "https://shopping-v3mvgyrmt8u9nyftebqnee.streamlit.app/",
+    "Market Cap": "https://companiesmarketcap.com/assets-by-market-cap/",
     "Volatilidades": "https://colab.research.google.com/drive/1QzYhaLwjNyKB_8Vw13UvexFGZ1EbK8rl?usp=sharing",
     "Tipo de Cambio": "https://exchange-r68mzkn9bmgvfhket3fznp.streamlit.app/",
     "CAPEX": "https://colab.research.google.com/drive/1MxxbXHsQyF0FGYaG39HcvFrAfJNQCGqf?usp=sharing",
