@@ -25,7 +25,7 @@ st.title("Menú de enlaces")
 
 # Diccionario con opciones y links
 links = {
-    "Game": "https://eyo2aazxwvfy8drkvj3szn.streamlit.app/",
+    "Game": "https://3hj5elrsp5xmisqkhfpusn.streamlit.app/",
     "Bayes_Map": "https://bayesmap-kgxsvqhpmtdfukvp6qhfez.streamlit.app/",
     "Repositorio": "https://videos-class-ntxornvewsnmrkyvsuc7yu.streamlit.app/",
     "Probabilidad": "https://probabilidad-lc5nb3p6xetbsvadzjyk4y.streamlit.app/",
