@@ -34,6 +34,7 @@ links = {
     "Tipo de Cambio": "https://exchange-r68mzkn9bmgvfhket3fznp.streamlit.app/",
     "Market Cap": "https://companiesmarketcap.com/assets-by-market-cap/",
     "Calendario Lunar": "https://www.calendario-365.mx/luna/calendario-lunar.html",
+    "Trend": "https://colab.research.google.com/drive/1HALQGTxl6SpJaSawmpM-90SIMza7yIil?usp=sharing",
     "Repositorio": "https://videos-class-ntxornvewsnmrkyvsuc7yu.streamlit.app/",
     "Probabilidad": "https://probabilidad-lc5nb3p6xetbsvadzjyk4y.streamlit.app/",
     "Rendimientos mensuales": "https://preciocierre-gwhq3lwwrabizqwtpynbje.streamlit.app/",
