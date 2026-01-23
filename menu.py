@@ -35,6 +35,7 @@ links = {
     "Market Cap": "https://companiesmarketcap.com/assets-by-market-cap/",
     "Calendario Lunar": "https://www.calendario-365.mx/luna/calendario-lunar.html",
     "Trend": "https://colab.research.google.com/drive/1HALQGTxl6SpJaSawmpM-90SIMza7yIil?usp=sharing",
+    "Quantumm Computing": "https://colab.research.google.com/drive/1f64ToI7oTxaMClB3uZDvf1LKELFiZXEd?usp=sharing",
     "Repositorio": "https://videos-class-ntxornvewsnmrkyvsuc7yu.streamlit.app/",
     "Probabilidad": "https://probabilidad-lc5nb3p6xetbsvadzjyk4y.streamlit.app/",
     "Rendimientos mensuales": "https://preciocierre-gwhq3lwwrabizqwtpynbje.streamlit.app/",
