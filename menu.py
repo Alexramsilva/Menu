@@ -36,6 +36,7 @@ links = {
     "Calendario Lunar": "https://www.calendario-365.mx/luna/calendario-lunar.html",
     "Trend": "https://colab.research.google.com/drive/1HALQGTxl6SpJaSawmpM-90SIMza7yIil?usp=sharing",
     "Quantumm Computing": "https://colab.research.google.com/drive/1f64ToI7oTxaMClB3uZDvf1LKELFiZXEd?usp=sharing",
+    "Pedido": "https://pedido-44xztayv3phs8t2jmchmq8.streamlit.app/",
     "Repositorio": "https://videos-class-ntxornvewsnmrkyvsuc7yu.streamlit.app/",
     "Probabilidad": "https://probabilidad-lc5nb3p6xetbsvadzjyk4y.streamlit.app/",
     "Rendimientos mensuales": "https://preciocierre-gwhq3lwwrabizqwtpynbje.streamlit.app/",
