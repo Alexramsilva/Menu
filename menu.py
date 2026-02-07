@@ -27,6 +27,7 @@ st.title("Menú de enlaces")
 links = {
     "Game": "https://3hj5elrsp5xmisqkhfpusn.streamlit.app/",
     "Entrada": "https://entrada-r9hxucrpbp8q77hngjlh52.streamlit.app/",
+    "Oportunidades": "https://oportunidades-qrpe3unrhhfd2gn3aapepp.streamlit.app/",
     "Shopping": "https://shopping-v3mvgyrmt8u9nyftebqnee.streamlit.app/",
     "Hooke": "https://alterno-vtw6bhga4gudyeqba5suui.streamlit.app/",
     "Bayes_Map": "https://bayesmap-kgxsvqhpmtdfukvp6qhfez.streamlit.app/",
