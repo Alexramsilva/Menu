@@ -29,6 +29,7 @@ links = {
     "Entrada": "https://entrada-r9hxucrpbp8q77hngjlh52.streamlit.app/",
     "Oportunidades": "https://oportunidades-qrpe3unrhhfd2gn3aapepp.streamlit.app/",
     "Shopping": "https://shopping-v3mvgyrmt8u9nyftebqnee.streamlit.app/",
+    "Roptura": "https://colab.research.google.com/drive/10CQgFDQOStj57I3GR_8vTcYxo62H9L4z?usp=sharing",
     "Hooke": "https://alterno-vtw6bhga4gudyeqba5suui.streamlit.app/",
     "Bayes_Map": "https://bayesmap-kgxsvqhpmtdfukvp6qhfez.streamlit.app/",
     "Rendimientos": "https://colab.research.google.com/drive/1_CikKZh6PHS14xKAY0W3ymlLTduAe8fZ?usp=sharing",
