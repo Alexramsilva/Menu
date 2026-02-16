@@ -32,6 +32,7 @@ links = {
     "Roptura": "https://colab.research.google.com/drive/10CQgFDQOStj57I3GR_8vTcYxo62H9L4z?usp=sharing",
     "Hooke": "https://alterno-vtw6bhga4gudyeqba5suui.streamlit.app/",
     "Bayes_Map": "https://bayesmap-kgxsvqhpmtdfukvp6qhfez.streamlit.app/",
+    "RL": "https://colab.research.google.com/drive/1GtWhlRMAIMcTWnRuPpAHoqR0ymaZhOso?usp=sharing",
     "Rendimientos": "https://colab.research.google.com/drive/1_CikKZh6PHS14xKAY0W3ymlLTduAe8fZ?usp=sharing",
     "Tipo de Cambio": "https://exchange-r68mzkn9bmgvfhket3fznp.streamlit.app/",
     "Market Cap": "https://companiesmarketcap.com/assets-by-market-cap/",
