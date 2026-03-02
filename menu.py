@@ -25,6 +25,7 @@ st.title("Menú de enlaces")
 
 # Diccionario con opciones y links
 links = {
+    "Horarios": "https://scheduler-eqbyudcqtuurxkcxe8epvw.streamlit.app/",
     "Game": "https://3hj5elrsp5xmisqkhfpusn.streamlit.app/",
     "Entrada": "https://entrada-r9hxucrpbp8q77hngjlh52.streamlit.app/",
     "Oportunidades": "https://oportunidades-qrpe3unrhhfd2gn3aapepp.streamlit.app/",
