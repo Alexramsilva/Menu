@@ -28,6 +28,7 @@ links = {
     "Horarios": "https://scheduler-eqbyudcqtuurxkcxe8epvw.streamlit.app/",
     "Repositorio": "https://videos-class-ntxornvewsnmrkyvsuc7yu.streamlit.app/",
     "Portfolio Óptimo": "https://portafolio-optimo-otqmf2ztv3f99wlwlhjkew.streamlit.app/",
+    "Bayesrs": "https://bayesrs-fwnqj5kbasqiyyqzdrt2ws.streamlit.app/",
     "Bayes GMEXICOB": "https://gmexico-2cizabuqy4fxx6pjg3puwe.streamlit.app/",
     "Oportunidades": "https://oportunidades-qrpe3unrhhfd2gn3aapepp.streamlit.app/",
     "Shopping": "https://shopping-v3mvgyrmt8u9nyftebqnee.streamlit.app/",
