@@ -30,6 +30,7 @@ links = {
     "Portfolio Óptimo": "https://portafolio-optimo-otqmf2ztv3f99wlwlhjkew.streamlit.app/",
     "Bayesrs": "https://bayesrs-fwnqj5kbasqiyyqzdrt2ws.streamlit.app/",
     "LSTM": "https://colab.research.google.com/drive/11fgk1eoRfDgF9uM32lw-GN4eM2_TYyJY?usp=sharing",
+    "Quiero Casa": "https://quierocasa.com.mx/",
     "Bayes GMEXICOB": "https://gmexico-2cizabuqy4fxx6pjg3puwe.streamlit.app/",
     "Lista 409": "https://asistencia409-443909246942.us-central1.run.app/",
     "Oportunidades": "https://oportunidades-qrpe3unrhhfd2gn3aapepp.streamlit.app/",
