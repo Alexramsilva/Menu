@@ -28,6 +28,7 @@ links = {
     "Horarios": "https://scheduler-eqbyudcqtuurxkcxe8epvw.streamlit.app/",
     "Repositorio": "https://videos-class-ntxornvewsnmrkyvsuc7yu.streamlit.app/",
     "Portfolio Óptimo": "https://portafolio-optimo-otqmf2ztv3f99wlwlhjkew.streamlit.app/",
+    "Red Bitcoin": "https://redbitcoin-cjnu98svsavr74wwnbgqqx.streamlit.app/",
     "Bayesrs": "https://bayesrs-fwnqj5kbasqiyyqzdrt2ws.streamlit.app/",
     "LSTM": "https://colab.research.google.com/drive/11fgk1eoRfDgF9uM32lw-GN4eM2_TYyJY?usp=sharing",
     "Quiero Casa": "https://quierocasa.com.mx/",
