@@ -24,9 +24,11 @@ st.markdown("""
 st.title("Menú de enlaces")
 
 # Diccionario con opciones y links
-links = {
+links = {https://app-bitcoin-zdpaws8phg4pmnvyfatacf.streamlit.app/
     "Horarios": "https://scheduler-eqbyudcqtuurxkcxe8epvw.streamlit.app/",
     "Repositorio": "https://videos-class-ntxornvewsnmrkyvsuc7yu.streamlit.app/",
+    "App Bitcoin": "https://app-bitcoin-zdpaws8phg4pmnvyfatacf.streamlit.app/",
+    "Hooke": "https://alterno-vtw6bhga4gudyeqba5suui.streamlit.app/",          
     "Portfolio Óptimo": "https://portafolio-optimo-otqmf2ztv3f99wlwlhjkew.streamlit.app/",
     "Red Bitcoin": "https://redbitcoin-cjnu98svsavr74wwnbgqqx.streamlit.app/",
     "Bayesrs": "https://bayesrs-fwnqj5kbasqiyyqzdrt2ws.streamlit.app/",
@@ -36,7 +38,6 @@ links = {
     "Lista 409": "https://asistencia409-443909246942.us-central1.run.app/",
     "Oportunidades": "https://oportunidades-qrpe3unrhhfd2gn3aapepp.streamlit.app/",
     "Shopping": "https://shopping-v3mvgyrmt8u9nyftebqnee.streamlit.app/",
-    "Hooke": "https://alterno-vtw6bhga4gudyeqba5suui.streamlit.app/",
     "Bernoulli": "https://colab.research.google.com/drive/15-py0f9a_ioAJy3nJhk2kfFcsus_TIhY?usp=sharing",
     "Rendimientos": "https://colab.research.google.com/drive/1_CikKZh6PHS14xKAY0W3ymlLTduAe8fZ?usp=sharing",
     "Tipo de Cambio": "https://exchange-r68mzkn9bmgvfhket3fznp.streamlit.app/",
