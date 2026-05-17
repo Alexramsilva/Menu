@@ -24,7 +24,7 @@ st.markdown("""
 st.title("Menú de enlaces")
 
 # Diccionario con opciones y links
-links = {https://app-bitcoin-zdpaws8phg4pmnvyfatacf.streamlit.app/
+links = {
     "Horarios": "https://scheduler-eqbyudcqtuurxkcxe8epvw.streamlit.app/",
     "Repositorio": "https://videos-class-ntxornvewsnmrkyvsuc7yu.streamlit.app/",
     "App Bitcoin": "https://app-bitcoin-zdpaws8phg4pmnvyfatacf.streamlit.app/",
