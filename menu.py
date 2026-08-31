@@ -28,6 +28,7 @@ links = {
     "Horarios": "https://scheduler-eqbyudcqtuurxkcxe8epvw.streamlit.app/",
     "Repositorio": "https://videos-class-ntxornvewsnmrkyvsuc7yu.streamlit.app/",
     "App Bitcoin": "https://app-bitcoin-zdpaws8phg4pmnvyfatacf.streamlit.app/",
+    "App VaR": "https://appvar-kj9zh5egahy4lfhwrkf732.streamlit.app/",
     "Red Bitcoin": "https://redbitcoin-cjnu98svsavr74wwnbgqqx.streamlit.app/",          
     "Hooke": "https://alterno-vtw6bhga4gudyeqba5suui.streamlit.app/",
     "Second opinion": "https://segunda-ntrnial2zghui5zgdgncop.streamlit.app/",
