@@ -29,6 +29,7 @@ links = {
     "Repositorio": "https://videos-class-ntxornvewsnmrkyvsuc7yu.streamlit.app/",
     "App Bitcoin": "https://app-bitcoin-zdpaws8phg4pmnvyfatacf.streamlit.app/",
     "App VaR": "https://appvar-kj9zh5egahy4lfhwrkf732.streamlit.app/",
+    "App RL": "https://b8rvvwhhdmfegkkcpwreoc.streamlit.app/",
     "Reto Actinver": "https://retoactinver-7ugnxpfgupkdufnskngbvg.streamlit.app/",
     "Simulación Monte Carlo": "https://dr42zwffvmeo7pls3snkuv.streamlit.app/",
     "Juego Finance Trade": "https://gamemc-b5xmwf59skfzltrultxwnt.streamlit.app/",
