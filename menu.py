@@ -29,7 +29,7 @@ links = {
     "Repositorio": "https://videos-class-ntxornvewsnmrkyvsuc7yu.streamlit.app/",
     "App Bitcoin": "https://app-bitcoin-zdpaws8phg4pmnvyfatacf.streamlit.app/",
     "Reto Actinver Kit": "https://retoactinverkid-fteok84insgc4fjes52yqz.streamlit.app/",
-    "Oportunidades": "https://oportunidades-qrpe3unrhhfd2gn3aapepp.streamlit.app/",
+    "Oportunidades": "https://abap-fi-gbgquappga3zy5xgvcqibwl.streamlit.app/",
     "Hooke": "https://alterno-vtw6bhga4gudyeqba5suui.streamlit.app/",
     "App VaR": "https://appvar-kj9zh5egahy4lfhwrkf732.streamlit.app/",
     "Red Bitcoin": "https://redbitcoin-cjnu98svsavr74wwnbgqqx.streamlit.app/",
