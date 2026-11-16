@@ -25,11 +25,12 @@ st.title("Menú de enlaces")
 
 # Diccionario con opciones y links
 links = {
+    "Oportunidades para tiburones": "https://abap-fi-gbgquappga3zy5xgvcqibwl.streamlit.app/",
     "Horarios": "https://scheduler-eqbyudcqtuurxkcxe8epvw.streamlit.app/",
     "Repositorio": "https://videos-class-ntxornvewsnmrkyvsuc7yu.streamlit.app/",
     "App Bitcoin": "https://app-bitcoin-zdpaws8phg4pmnvyfatacf.streamlit.app/",
     "Reto Actinver Kit": "https://retoactinverkid-fteok84insgc4fjes52yqz.streamlit.app/",
-    "Oportunidades": "https://abap-fi-gbgquappga3zy5xgvcqibwl.streamlit.app/",
+    "Horarios": "https://scheduler-eqbyudcqtuurxkcxe8epvw.streamlit.app/",
     "Hooke": "https://alterno-vtw6bhga4gudyeqba5suui.streamlit.app/",
     "App VaR": "https://appvar-kj9zh5egahy4lfhwrkf732.streamlit.app/",
     "Red Bitcoin": "https://redbitcoin-cjnu98svsavr74wwnbgqqx.streamlit.app/",
